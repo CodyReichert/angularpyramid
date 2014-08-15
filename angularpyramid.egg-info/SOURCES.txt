@@ -1,0 +1,15 @@
+setup.py
+angularpyramid/__init__.py
+angularpyramid/mailers.py
+angularpyramid/models.py
+angularpyramid/resource.py
+angularpyramid/schemas.py
+angularpyramid/security.py
+angularpyramid/views.py
+angularpyramid.egg-info/PKG-INFO
+angularpyramid.egg-info/SOURCES.txt
+angularpyramid.egg-info/dependency_links.txt
+angularpyramid.egg-info/entry_points.txt
+angularpyramid.egg-info/not-zip-safe
+angularpyramid.egg-info/requires.txt
+angularpyramid.egg-info/top_level.txt

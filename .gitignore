@@ -1,0 +1,6 @@
+secret_settings.ini
+db.sqlite
+*.swp
+
+angularpyramid/client-src/node_modules
+angularpyramid/client-src/bower_components

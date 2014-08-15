@@ -1,0 +1,21 @@
+Metadata-Version: 1.1
+Name: angularpyramid
+Version: 0.0
+Summary: angularpyramid
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: # angularpyramid
+        
+        A cool project
+        
+        # 0.0
+        
+        - initial version
+Keywords: web pyramid pylons
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pyramid
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
